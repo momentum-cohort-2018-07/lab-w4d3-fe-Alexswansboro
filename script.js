@@ -76,8 +76,4 @@ function createElement (tag) {
 function getID (id) {
   return document.getElementById(id)
 }
-// function createNote (note) {
-//   let noteLI = el('li')
-//   noteLi.classList.add('note')
-//   noteLi.id = `note-${note.id}`
-// }
+
